@@ -94,3 +94,6 @@ with self.assertRaises(KeyError):
 with self.assertRaises(AttributeError):
     value = d.empty
 ```
+```
+test
+```
